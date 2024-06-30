@@ -1,6 +1,6 @@
 {
-  "name": "mk-word_counter",
-  "version": "1.0.0",
+  "name": "mehakkhan-word_counter",
+  "version": "2.1.1",
   "description": "Word Counter with typeScript, Node.js and inquirer",
   "main": "index.js",
   "type": "module",
