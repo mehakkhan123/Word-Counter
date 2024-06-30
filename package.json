@@ -1,5 +1,5 @@
 {
-  "name": "node",
+  "name": "mk-word_counter",
   "version": "1.0.0",
   "description": "Word Counter with typeScript, Node.js and inquirer",
   "main": "index.js",
